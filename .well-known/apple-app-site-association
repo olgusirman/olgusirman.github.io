@@ -1,10 +1,25 @@
 {
   "applinks": {
-      "details": [
-           {
-	 "appIDs": [ "1503045795.com.maf.thatios"]
-   },
-   "webcredentials": {
-      "apps": [ "1503045795.com.maf.thatios" ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [ "1503045795.com.maf.thatios"],
+        "appID": "1503045795.com.maf.thatios",
+        "components": [
+          {
+            "/": "/product/*",
+            "comment": "This documentation is awful"
+          }
+        ],
+        "paths": [ "/product/*" ]
+      },
+      {
+        "appID": "1503045795.com.maf.thatios",
+        "paths": [ "/product/*" ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [ "1503045795.com.maf.thatios" ]
+  }
 }
