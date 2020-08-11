@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-	 "appIDs": [ "QZ7T7SZ528.com.maf.thatios"],
+	 "appIDs": [ "1503045795.com.maf.thatios"],
 	"components": [
 	  {
 	  "/": "/product/*"
@@ -12,6 +12,6 @@
 	]
    },
    "webcredentials": {
-      "apps": [ "QZ7T7SZ528.com.maf.thatios" ]
+      "apps": [ "1503045795.com.maf.thatios" ]
    }
 }
