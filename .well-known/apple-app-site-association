@@ -5,8 +5,8 @@
 	 "appIDs": [ "QZ7T7SZ528.com.maf.thatios"],
 	"components": [
 	  {
-	  "/": "/product/*",
-	  "?": {"productCode": "?*"}
+	  "/": "/product/*"
+	  }
 	  }]
 	  }
 	]
