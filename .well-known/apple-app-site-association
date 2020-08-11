@@ -2,15 +2,15 @@
   "applinks": {
       "details": [
            {
-			 "appIDs": [ "1503045795.com.maf.thatios"],
-			 "components": [
-			   {
-                  "/": "/product/*",
-				  "?": {"productCode": "?*"}
-               }
-             ]
-           }
-       ]
+	 "appIDs": [ "1503045795.com.maf.thatios"],
+	"components": [
+	  {
+	  "/": "/product/*",
+	  "?": {"productCode": "?*"}
+	  }
+	  ]
+	  }
+	]
    },
    "webcredentials": {
       "apps": [ "1503045795.com.maf.thatios" ]
