@@ -6,17 +6,7 @@
         "appIDs": [ "QZ7T7SZ528.com.maf.thatios"],
         "appID": "QZ7T7SZ528.com.maf.thatios",
         "components": [
-          {
-            "/": "/product/*",
-            "comment": "This documentation is awful"
-          }
-        ],
-        "paths": [ "/product/*" ]
-      },
-      {
-        "appID": "QZ7T7SZ528.com.maf.thatios",
-        "paths": [ "/product/*" ]
-      }
+          
     ]
   },
   "webcredentials": {
