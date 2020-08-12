@@ -12,11 +12,8 @@
                {
                   "/": "/product/*",
 		  "comment": "Matches any URL whose path starts with /product/"
-               }, 
-	       {
-	       "?": {"productCode": "?*"}
-	       }
-             ]
+               } 
+	     ]
            }
        ]
    },
