@@ -11,7 +11,7 @@
              "components": [
                {
                   "/": "/product/*",
-		  "?": { "productCode": "?*" },
+		  
 		  "comment": "Matches any URL whose path starts with /product/"
                } 
 	     ]
