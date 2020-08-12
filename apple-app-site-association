@@ -1,21 +1,21 @@
 {
   "applinks": {
-	  "apps": [],
+      "apps": [],
       "details": [
            {
-			 "appID": "QZ7T7SZ528.com.maf.thatios",
+	     "appID": "QZ7T7SZ528.com.maf.thatios",
              "appIDs": [ "QZ7T7SZ528.com.maf.thatios" ],
-			 "paths": [
-				 "/product/*"
-			 ],
+	     "paths": [
+	     	"/product/*"
+		],
              "components": [
                {
                   "/": "/product/*",
-                  "comment": "Matches any URL whose path starts with /product/"
-               },
-               {
-                  "/": "/product/*"
-               }
+		  "comment": "Matches any URL whose path starts with /product/"
+               }, 
+	       {
+	       "?": {"productCode": "?*"}
+	       }
              ]
            }
        ]
